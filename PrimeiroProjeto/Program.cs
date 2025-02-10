@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using PrimeiroProjeto;
+
+Console.WriteLine("hello world");
+Usuario user1 = Usuario();
